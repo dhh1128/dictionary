@@ -1,6 +1,6 @@
 # serendimage
 
-/ˌsɛrɛnˈdɪmɪʤ/
+<span class="ipa">/ˌsɛrənˈdɪmɪʤ/</span>
 
 n | *An unexpected likeness discovered in a surprising place.*
 
