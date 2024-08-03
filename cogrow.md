@@ -1,6 +1,14 @@
 # cogrow
 
-*To come to know, comprehend, and connect with someone or something outside the self through a process of willing and prolonged adaptation.*
+/kəʊ-ɡrəʊ/
+
+v | *To come to know, comprehend, and connect with someone or something outside the self through a process of willing and prolonged adaptation.*
+
+From *co-* and *grow*.
+
+Similar to: intertwine, co-adapt
+
+<hr>
 
 In the best and longest marriages, both spouses experience *cogrowth*, and each can truthfully say to the other, "I *cogrow* you." This means something more than "I am familiar with you" or "I recognize you" or "I know you well" or "I know everything about you". It means that the speaker perceives, acknowledges, appreciates, seeks to understand, and nourishes:
 
@@ -26,9 +34,3 @@ In this vein, consider Jesus's rebuke of insincere followers with the statement 
 The definition of *cogrowth* is rooted in how humans experience relationships. However, by analogy, you can *cogrow* a truth by exploring its manifestations, analyzing it from every angle, and adapting your mental model and your behavior to accept, appreciate, and align with it. The truth is not intentionally converging with you, but your are appreciating its otherness and not demanding that it conform to your own preferences or manner of being. Ironically, when you do this, the truth's manifestations grow, because it begins to characterize *you*, and new synnergy emerges. "And ye shall *know* [[Strong's G1097](https://biblehub.com/greek/1097.htm)] the truth, and the truth shall make you free." ([John 8:32](https://www.churchofjesuschrist.org/study/scriptures/nt/john/8.32?lang=eng#p31))
 
 In [symbiosis](https://en.wikipedia.org/wiki/Symbiosis), neither a parasite nor its host *cogrow* one another, because the relationship is adversarial. Commensalism might be analyzed as one-sided cogrowth. Mutualism is a better example, though. It might also be said that strands of DNA *cogrow* one another.
-
-<hr>
-
-### Related
-* intertwine
-* co-adapt
