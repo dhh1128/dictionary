@@ -2,7 +2,7 @@
 
 <span class="ipa">/ˈkoʊɡroʊ/</span>
 
-v | *To come to know, comprehend, and connect with someone or something outside the self through a process of willing and prolonged adaptation.*
+v &mdash; *To come to know, comprehend, and connect with someone or something outside the self through a process of willing and prolonged adaptation.*
 
 From *co-* and *grow*.
 

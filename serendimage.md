@@ -2,7 +2,7 @@
 
 <span class="ipa">/ˌsɛrənˈdɪmɪʤ/</span>
 
-n | *An unexpected likeness discovered in a surprising place.*
+n &mdash; *An unexpected likeness discovered in a surprising place.*
 
 From *serendipty* and *image*.
 
