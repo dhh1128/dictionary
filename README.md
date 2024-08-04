@@ -2,5 +2,6 @@ I'm fascinated by the power of words. Having good words &mdash; words that are c
 
 In many cases, I can find good words by simply learning what's already been defined as an ordinary word, an expression, an idiom, or a term. No sense reinventing the wheel. But sometimes, I see a gap or problem that's best fixed with a new word of my own. That's the purpose of this dictionary. It contains my [neologisms](https://en.wikipedia.org/wiki/Neologism).
 
-* [cogrow](cogrow.md)
+* [cogro](cogro.md)
 * [serendimage](serendimage.md)
+* [stillity](stillity.md)

@@ -1,8 +1,8 @@
 # serendimage
 
-<span class="ipa">/ˌsɛrənˈdɪmɪʤ/</span>
+<span class="ipa">/ˌsɛrɛnˈdɪmɪʤ/</span>
 
-n &mdash; *An unexpected likeness perceived imaginatively in a surprising place.*
+n &mdash; *A likeness perceived imaginatively in a surprising place.*
 
 From *serendipty* and *image*.
 
