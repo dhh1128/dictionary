@@ -2,7 +2,7 @@
 
 <span class="ipa">/ˌsɛrɛnˈdɪmɪʤ/</span>
 
-n &mdash; *A likeness perceived imaginatively in a surprising place.*
+noun &mdash; *A likeness perceived imaginatively in a surprising place.*
 
 From *serendipty* and *image*.
 

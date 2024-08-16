@@ -29,6 +29,16 @@ h3 {
     font-size: 13pt;
     color: #666666;
 }
+a:hover {
+    font-weight: inherit;
+    border-bottom: solid 1px #cccccc;
+}
+.hash {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: 80%;
+    color: #aaaaaa;
+}
 .ipa {
     font-family: 'Courier New', Courier, monospace;
     font-size: 150%
