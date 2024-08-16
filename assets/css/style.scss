@@ -34,10 +34,15 @@ a:hover {
     border-bottom: solid 1px #cccccc;
 }
 .hash {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Barlow Condensed';
     font-weight: 300;
-    font-size: 80%;
-    color: #aaaaaa;
+    color: #491705;
+}
+footer {
+    font-size: 92%;
+    font-weight: 300;
+    color: #666666;
+    font-style: italic;
 }
 .ipa {
     font-family: 'Courier New', Courier, monospace;
