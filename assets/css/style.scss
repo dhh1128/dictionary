@@ -29,10 +29,6 @@ h3 {
     font-size: 13pt;
     color: #666666;
 }
-a:hover {
-    font-weight: inherit;
-    border-bottom: solid 1px #cccccc;
-}
 .hash {
     font-family: 'Barlow Condensed';
     font-weight: 300;
@@ -48,3 +44,9 @@ footer {
     font-family: 'Courier New', Courier, monospace;
     font-size: 150%
 }
+a { color: #914f37 }
+a:hover {
+    font-weight: inherit;
+    border-bottom: solid 1px #914f37;
+}
+a:visited { color: #491705 }
