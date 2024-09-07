@@ -19,6 +19,6 @@ Somidions may obvious to an external observer, or hidden. They may be present at
 
  A biometric like a fingerprint, retinal pattern, genome, facial geometry, or voice print is not a somidion because it is only recognizable with specialized measurement and/or computation.
 
- A hairstyle, beard, or moustache is not a somidion, because it can be easily changed, and many people can have have very similar ones, either by accident or on purpose.
+ A hairstyle, beard, or moustache is not a protoypical somidion, because it can be easily changed, and many people can have very similar ones, either by accident or on purpose.
 
  
