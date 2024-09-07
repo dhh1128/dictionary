@@ -4,3 +4,4 @@ In many cases, I can find good words by simply learning what's already been defi
 
 * [cogro](cogro.md)
 * [serendimage](serendimage.md)
+* [somidion](somidion.md)
