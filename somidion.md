@@ -1,6 +1,6 @@
 # somidion
 
-<span class="ipa">/so'mɪdiən/</span>
+<span class="ipa">/soˈmɪdiən/</span>
 
 noun &mdash; *A mark on or feature of a person's body that has a specific location, is persistent rather than ephemeral, is characteristic rather than incidental, is highly unique, and can be recognized with ordinary human senses based on a simple description.*
 
