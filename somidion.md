@@ -2,7 +2,7 @@
 
 <span class="ipa">/soˈmɪdiən/</span>
 
-noun &mdash; *A mark on or feature of a person's body that has a specific location, is persistent rather than ephemeral, is characteristic rather than incidental, is highly unique, and can be recognized with ordinary human senses based on a simple description.*
+noun &mdash; *A mark on or feature of a person's body that has a specific location, is persistent rather than ephemeral, is characteristic rather than incidental, is fairly unique, and can be recognized with ordinary human senses based on a simple description.*
 
 From GR *soma* 'body' + GR *idio* 'personal, unique'.
 
@@ -19,6 +19,6 @@ Somidions may obvious to an external observer, or hidden. They may be present at
 
  A biometric like a fingerprint, retinal pattern, genome, facial geometry, or voice print is not a somidion because it is only recognizable with specialized measurement and/or computation.
 
- A hairstyle, beard, or moustache is not a protoypical somidion, because it can be easily changed, and many people can have very similar ones, either by accident or on purpose.
+ A hairstyle, beard, or moustache is not a somidion, because it can be easily changed, and many people can have very similar ones, either by accident or on purpose.
 
  
